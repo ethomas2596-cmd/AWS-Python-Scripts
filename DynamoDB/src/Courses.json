@@ -1,0 +1,79 @@
+{
+"data":[{
+    "course_id":1686,
+    "subject":"SDEV",
+    "catalog_num":400,
+    "title":"Secure Programming in the Cloud",
+    "num_credits":3
+},
+{
+    "course_id":8584,
+    "subject":"CMIT",
+    "catalog_num":336,
+    "title":"Fundementals of Microsoft Azure",
+    "num_credits":3
+},
+{
+    "course_id":8469,
+    "subject":"CMIT",
+    "catalog_num":369,
+    "title":"Cloud Technologies",
+    "num_credits":3
+},
+{
+    "course_id":2426,
+    "subject":"CMIT",
+    "catalog_num":369,
+    "title":"Cloud Technologies",
+    "num_credits":3
+},
+{
+    "course_id":2426,
+    "subject":"CMIT",
+    "catalog_num":350,
+    "title":"Interconnecting Cisco Devices",
+    "num_credits":3
+},
+{
+    "course_id":2424,
+    "subject":"CMIT",
+    "catalog_num":320,
+    "title":"Network Security",
+    "num_credits":3
+},
+{
+    "course_id":4062,
+    "subject":"CMIT",
+    "catalog_num":265,
+    "title":"Fundementals of Networking",
+    "num_credits":3
+},
+{
+    "course_id":2523,
+    "subject":"SDEV",
+    "catalog_num":360,
+    "title":"Secure Software Engineering",
+    "num_credits":3
+},
+{
+    "course_id":1542,
+    "subject":"SDEV",
+    "catalog_num":350,
+    "title":"Database Security",
+    "num_credits":3
+},
+{
+    "course_id":5187,
+    "subject":"SDEV",
+    "catalog_num":325,
+    "title":"Detecting SW Vulnerabilities",
+    "num_credits":3
+},
+{
+    "course_id":6520,
+    "subject":"SDEV",
+    "catalog_num":300,
+    "title":"Bldg Secure Python Application",
+    "num_credits":3
+}]
+}

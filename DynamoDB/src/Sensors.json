@@ -1,0 +1,120 @@
+{
+"Sensors":[
+	{ "PutRequest": { "Item":{
+	"Sensor":{"S":"Human Resources"},
+	"SensorDescription":{"S":" Department responsible for managing the employment, training, and development of staff."},
+	"ImageFile":{"S":"/home/user/ec2/Oxs6Wwt.jpg"},
+	"SampleRate":{"N":"8069"},
+	"Locations":{"SS":["Richmond VA", "New York NY", "Miami FL"]}
+}}},
+{ "PutRequest": { "Item":{
+	"Sensor":{"S":"Accounting"},
+	"ImageFile":{"S":"/home/user/ec2/3fKKTJr.jpg"},
+	"SampleRate":{"N":"6792"}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Marketing"},
+	"SensorDescription":{"S":" Department responsible for promoting and selling products or services."},
+	"ImageFile":{"S":"/home/user/ec2/fKDCp5T.jpg"}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Information Technology"},
+	"SensorDescription":{"S":" Department responsible for managing and maintaining computer systems and networks."},
+	"ImageFile":{"S":"/home/user/ec2/pPtCFvI.jpg"}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Sales"},
+	"ImageFile":{"S":"/home/user/ec2/54wj8v6.jpg"},
+	"SampleRate":{"N":"9474"},
+	"Locations":{"SS":["Richmond VA"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Customer Service"},
+	"SensorDescription":{"S":" Department responsible for providing assistance and support to customers."},
+	"ImageFile":{"S":"/home/user/ec2/8zuGrXX.jpg"},
+	"SampleRate":{"N":"4599"},
+	"Locations":{"SS":["Richmond VA"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Research and Development"},
+	"SensorDescription":{"S":" Department responsible for conducting research and developing new products or services."},
+	"SampleRate":{"N":"3056"},
+	"Locations":{"SS":["Richmond VA", "New York NY", "Miami FL"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Operations"},
+	"SensorDescription":{"S":" Department responsible for managing day-to-day business operations."},
+	"SampleRate":{"N":"9150"},
+	"Locations":{"SS":["New York NY", "Miami FL"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Legal"},
+	"SensorDescription":{"S":" Department responsible for providing legal advice and ensuring compliance with laws and regulations."},
+	"Locations":{"SS":["Richmond VA", "New York NY", "Miami FL"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Public Relations"},
+	"SampleRate":{"N":"8596"},
+	"Locations":{"SS":["Richmond VA", "New York NY", "Miami FL"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Supply Chain Management"},
+	"SensorDescription":{"S":" Department responsible for managing the flow of goods and services from suppliers to customers."},
+	"SampleRate":{"N":"2433"},
+	"Locations":{"SS":[ "New York NY"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Quality Assurance"},
+	"SensorDescription":{"S":" Department responsible for ensuring that products or services meet quality standards."},
+	"ImageFile":{"S":"/home/user/ec2/2l-0kS4.jpg"},
+	"SampleRate":{"N":"5295"},
+	"Locations":{"SS":[ "New York NY"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Facilities Management"},
+	"ImageFile":{"S":"/home/user/ec2/lAX0A-I.jpg"},
+	"SampleRate":{"N":"1576"},
+	"Locations":{"SS":["Richmond VA", "New York NY", "Miami FL"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Procurement"},
+	"ImageFile":{"S":"/home/user/ec2/YzMYP4W.jpg"},
+	"SampleRate":{"N":"9102"},
+	"Locations":{"SS":["Miami FL"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Communications"},
+	"SensorDescription":{"S":" Department responsible for internal and external communication."},
+	"ImageFile":{"S":"/home/user/ec2/dDuCkDi.jpg"},
+	"SampleRate":{"N":"7655"},
+	"Locations":{"SS":["Miami FL"]}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Administration"},
+	"SensorDescription":{"S":" Department responsible for providing administrative support to the organization."},
+	"ImageFile":{"S":"/home/user/ec2/MrxDLhO.jpg"}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Safety and Security"},
+	"SensorDescription":{"S":" Department responsible for ensuring the safety and security of employees and assets."},
+	"ImageFile":{"S":"/home/user/ec2/nLJNFo7.jpg"}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Training and Development"},
+	"SensorDescription":{"S":" Department responsible for providing training and development opportunities to employees."},
+	"ImageFile":{"S":"/home/user/ec2/tS-4khJ.jpg"},
+	"SampleRate":{"N":"7737"}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Compliance"},
+	"ImageFile":{"S":"/home/user/ec2/SoQRS4e.jpg"},
+	"SampleRate":{"N":"8902"}
+}}},
+{  "PutRequest": { "Item":{
+	"Sensor":{"S":"Business Development"},
+	"SensorDescription":{"S":" Department responsible for identifying new business opportunities and developing strategies to expand the organization."},
+	"ImageFile":{"S":"/home/user/ec2/c01cKrA.jpg"},
+	"SampleRate":{"N":"3530"},
+	"Locations":{"SS":["New York NY", "Miami FL"]}
+}}}
+]}
